@@ -1,1 +1,1 @@
-# Creating SSH key for gihub
+# Creating SSH key for github
